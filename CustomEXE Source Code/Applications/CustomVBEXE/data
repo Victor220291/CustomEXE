@@ -1,0 +1,1 @@
+x=msgbox("Right Click and Click Open With and find notepad and make your own vbs exe application." ,0, "Read Me")

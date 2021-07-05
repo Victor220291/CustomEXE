@@ -1,0 +1,8 @@
+@echo off
+REM Preparation Part
+goto app
+
+:app
+REM Application Part
+echo Right Click and click Open with and Find notepad and make your owm exe application!
+pause

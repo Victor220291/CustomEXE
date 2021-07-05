@@ -1,0 +1,3 @@
+WScript.Echo "Right Click and Click Open With and find notepad and make your own vbs exe application."
+WScript.Echo "Press [ENTER] to continue..."
+WScript.StdIn.ReadLine

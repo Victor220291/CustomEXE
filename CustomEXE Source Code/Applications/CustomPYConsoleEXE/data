@@ -1,0 +1,3 @@
+import time
+print ("Right click and click Open With and find Notepad and make your own Applications")
+time.sleep(5)
